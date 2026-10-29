@@ -122,6 +122,7 @@ Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir c
     width="30"
     height="30"
     alt="Expo"
+    title="GitHub"
   style="filter: brightness(0) invert(1);"
 />
 <img align="left" 
