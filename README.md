@@ -262,8 +262,7 @@ const iure = {
         width="29%"
         style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
-    </a>
-    <img src="<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
+    </a>
 </div>
 
