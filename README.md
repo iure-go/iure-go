@@ -248,3 +248,4 @@ Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir c
         style="padding-right: 10px;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
 </p>
+<img src="<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
