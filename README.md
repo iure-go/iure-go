@@ -5,8 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algoritmos;Estrutura+de+dados;Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Bancos+de+Dados;Redes;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sistemas+Operacionais;Programa%C3%A7%C3%A3o+Web+e+M%C3%B3vel;Vis%C3%A3o+Computacional;Estat%C3%ADstica;An%C3%A1lise+de+Dados;Power+BI;Ci%C3%AAncia+de+Dados;Intelig%C3%AAncia+Artificial." alt="Typing SVG" />
 </a>
 
-
-<br><br>
+<br>
 
 <p align="center">
     <a href="https://instagram.com/iure.go">
@@ -136,12 +135,11 @@ const iure = {
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img align="left" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
     width="30"
     height="30"
-    alt="Expo"
+    alt="GitHub"
     title="GitHub"
-  style="filter: brightness(0) invert(1);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <img align="left" 
     alt="vscode" 
@@ -235,12 +233,12 @@ const iure = {
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
 />
 <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg"
   width="30"
   height="30"
   alt="Expo"
   title="Expo"
-  style="filter: brightness(0) invert(1);"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg"
 />
 </p>
 <br>
@@ -250,25 +248,22 @@ const iure = {
 
 ### 📊 Estatísticas
 
-<p>
 <div align="center">
   <a href="https://github.com/iure-go">
     <img 
-            width="34%"
-            style="padding-right: 10px; vertical-align: top;"
+        width="34%"
+        style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&count_private=true"/>
     <img 
-            width="34%"
-            style="padding-right: 10px; vertical-align: top;"
+        width="34%"
+        style="padding-right: 10px; vertical-align: top;"
         src='https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=react&locale=pt-br'/>
     <img        
-            width="29%"
-            style="padding-right: 10px; vertical-align: top;"
+        width="29%"
+        style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
     </a>
+    <img src="<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
 </div>
-</p>
 
-<img src="<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
