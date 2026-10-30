@@ -271,4 +271,4 @@ const iure = {
 
 <img src="<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=100&section=footer" alt="" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=51&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
