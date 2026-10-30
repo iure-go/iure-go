@@ -254,11 +254,11 @@ const iure = {
 <div align="center">
   <a href="https://github.com/iure-go">
     <img 
-            width="35%"
+            width="34%"
             style="padding-right: 10px; vertical-align: top;"
         src='https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=react&locale=pt-br'/>
     <img 
-            width="35%"
+            width="34%"
             style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&count_private=true"/>
     <img        
