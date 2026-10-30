@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Iure+Oliveira&textBg=false&fontSize=70&fontAlign=51&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Iure+Oliveira&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50" alt="" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algoritmos;Estrutura+de+dados;Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Bancos+de+Dados;Redes;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sistemas+Operacionais;Programa%C3%A7%C3%A3o+Web+e+M%C3%B3vel;Vis%C3%A3o+Computacional;Estat%C3%ADstica;An%C3%A1lise+de+Dados;Power+BI;Ci%C3%AAncia+de+Dados;Intelig%C3%AAncia+Artificial." alt="Typing SVG" />
 </a>
