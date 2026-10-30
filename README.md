@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Iure+&textBg=false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=50&descAlign=28&descAlignY=89](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Iure+Oliveira&textBg=false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=50&descAlign=28&descAlignY=89)"/>
+<img src="[[https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Iure+&textBg=false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=50&descAlign=28&descAlignY=89]](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=IURE+OLIVEIRA&textBg=false&fontSize=70&fontAlign=50&fontAlignY=48&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)"/>
 
 **`Desenvolvedor`**
 
