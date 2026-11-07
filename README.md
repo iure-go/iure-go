@@ -44,9 +44,14 @@
 ## Sobre
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UERJ/ZO, com previsão de conclusão em 2028.2, busco oportunidades de estágio ou posições iniciais em tecnologia.
-Nos estudos, concluí disciplinas de algoritmos, estrutura de dados, programação orientada a objetos, bancos de dados, redes, segurança da informação, sistemas operacionais, programação web e móvel, estatística e visão computacional. Tenho cursos de Power BI e análise de dados, administração de banco de dados, ciência de dados e inteligência artificial.
 
-Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir com a equipe. Inglês intermediário (Duolingo: 129).
+Nos estudos, concluí disciplinas de algoritmos, estrutura de dados, programação orientada a objetos, bancos de dados, redes, segurança da informação, sistemas operacionais, programação web e móvel, estatística e visão computacional.
+
+Tenho cursos de Power BI e análise de dados, administração de banco de dados, ciência de dados e inteligência artificial.
+
+Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir com a equipe.
+
+Inglês intermediário (Duolingo: 129).
 
 ```ts
 const iure = {
