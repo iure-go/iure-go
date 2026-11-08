@@ -51,7 +51,7 @@ Tenho cursos de Power BI e análise de dados, administração de banco de dados,
 
 Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir com a equipe.
 
-Inglês intermediário (Duolingo: 129)
+Inglês intermediário B1 (Duolingo: 129)
 
 ```ts
 const iure = {
