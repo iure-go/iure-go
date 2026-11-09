@@ -49,8 +49,6 @@ Nos estudos, concluí disciplinas de algoritmos, estrutura de dados, programaç�
 
 Tenho cursos de Power BI e análise de dados, administração de banco de dados, ciência de dados e inteligência artificial.
 
-Sou organizado, colaborativo e comunicativo, com foco em aprender e contribuir com a equipe.
-
 Inglês intermediário B1 (Duolingo: 129)
 
 ```ts
