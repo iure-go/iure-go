@@ -74,20 +74,17 @@ const iure = {
     <img 
         width="34%"
         style="padding-right: 10px; vertical-align: top;"
-        src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&count_private=true"/>
+        src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&count_private=true"/>
     <img 
         width="34%"
         style="padding-right: 10px; vertical-align: top;"
-        src='https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=react&locale=pt-br'/>
+        src='https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=merko&locale=pt-br'/>
     <img        
         width="29%"
         style="padding-right: 10px; vertical-align: top;"
-        src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
+        src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=merko&locale=pt-br"/>
 
-        
-<div data-importer="stats" align="center">
-      <img src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5&bg_color=#55960C&hide_border=false&hide_title=false&color=#55960C&title_color=#55960C&line=#55960C&point=#55960C&area_color=#55960C" height="300" alt="activity-graph graph"  />
-</div>
+<img data-importer="stats" align="center" src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5&bg_color=#55960C&hide_border=false&hide_title=false&color=#55960C&title_color=#55960C&line=#55960C&point=#55960C&area_color=#55960C" height="300" alt="activity-graph graph"/>
 
 ###
       
