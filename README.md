@@ -92,7 +92,3 @@ const iure = {
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
     </a>
 </div>
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph"/>
-</div>
