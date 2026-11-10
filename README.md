@@ -71,6 +71,9 @@ const iure = {
 
 <div align="center">
     <a href="https://github.com/iure-go">
+    <div data-importer="stats" align="center">
+        <img src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+    </div>
     <img 
         width="34%"
         style="padding-right: 10px; vertical-align: top;"
