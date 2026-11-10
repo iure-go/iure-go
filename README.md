@@ -70,7 +70,7 @@ const iure = {
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/iure-go">
+    <a href="https://github.com/iure-go">
     <img 
         width="34%"
         style="padding-right: 10px; vertical-align: top;"
@@ -83,6 +83,13 @@ const iure = {
         width="29%"
         style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
+      
+   <picture data-importer="pacman">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    </picture>
+        <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
     </a>
 </div>
