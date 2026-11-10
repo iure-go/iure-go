@@ -83,6 +83,13 @@ const iure = {
         width="29%"
         style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=react&locale=pt-br"/>
+
+        
+<div data-importer="stats" align="center">
+      <img src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5&bg_color=#55960C&hide_border=false&hide_title=false&color=#55960C&title_color=#55960C&line=#55960C&point=#55960C&area_color=#55960C" height="300" alt="activity-graph graph"  />
+</div>
+
+###
       
    <picture data-importer="pacman">
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
