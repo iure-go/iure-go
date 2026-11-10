@@ -83,18 +83,16 @@ const iure = {
         width="29%"
         style="padding-right: 10px; vertical-align: top;"
         src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=merko&locale=pt-br"/>
-
-<img data-importer="stats" align="center" src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5&bg_color=#55960C&hide_border=false&hide_title=false&color=#55960C&title_color=#55960C&line=#55960C&point=#55960C&area_color=#55960C" height="300" alt="activity-graph graph"/>
-
-###
-      
+        
    <picture data-importer="pacman">
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
     </picture>
-        <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50" alt="" width="100%"/>
     </a>
 </div>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
