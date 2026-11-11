@@ -84,13 +84,13 @@ const iure = {
           src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5&locale=pt-br"
           alt="activity-graph graph"          
         />
-          <img align="left"style="width: 30%;"
+          <img align="left"style="width: 27%;"
           src="https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=merko&locale=pt-br"
           width="20%"
           alt="Sequência de contribuições"
         />
         <br /><br /><br /><br /><br />
-        <img align="left" style="width: 30%;"
+        <img align="left" style="width: 27%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=merko&locale=pt-br"
           alt="Linguagens mais usadas"
         />
@@ -108,7 +108,7 @@ const iure = {
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
-        <img align="left" style="width: 30%;"
+        <img align="left" style="width: 27%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&count_private=true"
           alt="Estatísticas do GitHub"
         />
