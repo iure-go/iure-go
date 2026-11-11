@@ -47,7 +47,7 @@
 
 </div>
 
-## Sobre
+## 📚About
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UERJ/ZO, com previsão de conclusão em 2028.2, busco oportunidades de estágio ou posições iniciais em tecnologia.
 
@@ -68,12 +68,12 @@ const iure = {
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖Stack
 
 <img align="center" alt="Stack" width="100%" src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,jquery,mysql,github,c,py,vscode,npm,powershell,eclipse,ai,ps" />
 </p>
 
-### 📊 Estatísticas
+### 📊Static
 
 <div>
     <a href="https://github.com/iure-go">
