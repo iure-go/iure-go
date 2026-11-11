@@ -73,7 +73,7 @@ const iure = {
 <img align="center" alt="Stack" width="100%" src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,jquery,mysql,github,c,py,vscode,npm,powershell,eclipse,ai,ps" />
 </p>
 
-### 📊Static
+### 📊Statics
 
 <div>
     <a href="https://github.com/iure-go">
