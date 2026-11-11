@@ -81,7 +81,7 @@ const iure = {
     <tr>
       <th>
         <img align="left" style="width: 65.8%;" 
-          src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5"
+          src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5&locale=pt-br"
           alt="activity-graph graph"          
         />
         <img align="left" style="width: 30%;"
