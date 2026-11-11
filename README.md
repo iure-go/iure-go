@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg">
 <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algorithms;Estrutura+de+dados;Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Bancos+de+Dados;Redes;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sistemas+Operacionais;Programa%C3%A7%C3%A3o+Web+e+M%C3%B3vel;Vis%C3%A3o+Computacional;Estat%C3%ADstica;An%C3%A1lise+de+Dados;Power+BI;Ci%C3%AAncia+de+Dados;Intelig%C3%AAncia+Artificial." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algorithms;Data+Structure;Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Bancos+de+Dados;Redes;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Sistemas+Operacionais;Programa%C3%A7%C3%A3o+Web+e+M%C3%B3vel;Vis%C3%A3o+Computacional;Estat%C3%ADstica;An%C3%A1lise+de+Dados;Power+BI;Ci%C3%AAncia+de+Dados;Intelig%C3%AAncia+Artificial." 
     alt="Digitação animada" />
 </a>
 
