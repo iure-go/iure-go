@@ -78,25 +78,24 @@ const iure = {
 <div>
     <a href="https://github.com/iure-go">
     <div data-importer="stats">
-  <table>
     <tr>
       <th>
-        <img align="left" style="width: 40%;" 
+        <img align="left" style="width: 65.8%;" 
           src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5"
           alt="activity-graph graph"          
         />
-        <img align="left" style="width: 17%;"
+        <img align="left" style="width: 30%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&count_private=true"
           alt="Estatísticas do GitHub"
         /><br /><br /><br /><br /><br />
-        <img align="left"style="width: 17%;"
+        <img align="left"style="width: 30%;"
           src="https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=merko&locale=pt-br"
           width="20%"
           alt="Sequência de contribuições"
         />
       </th>
       <tr>
-      <td align="left">
+      <td>
         <picture data-importer="pacman">
             <source 
                 media="(prefers-color-scheme: dark)" 
@@ -104,21 +103,20 @@ const iure = {
             <source 
                 media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
-            <img style="width: 40%;"
+            <img align="left" style="height: 105px;"
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
-        <img style="width: 18%;"
+        <img align="left" style="width: 30%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=merko&locale=pt-br"
           alt="Linguagens mais usadas"
         />
         </td>
       </tr>
     </tr>
-  </table>
     </div>
 </div>
-    <img align="center"
+   <img align="center"
         src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50"
         alt="Barra rodapé"
         width="100%"
