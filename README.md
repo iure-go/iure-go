@@ -75,31 +75,28 @@ const iure = {
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div>
     <a href="https://github.com/iure-go">
-    <div data-importer="stats" align="center">
-  <table width="100%">
+    <div data-importer="stats">
+  <table>
     <tr>
-      <td>
-        <img
+      <th>
+        <img align="left" style="width: 40%;" 
           src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5"
-          alt="activity-graph graph"
+          alt="activity-graph graph"          
         />
-      </td>
-      <td>
-        <img
+        <img align="left" style="width: 17%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&count_private=true"
-          width="100%"
           alt="Estatísticas do GitHub"
-        /><br />
-        <img
+        /><br /><br /><br /><br /><br />
+        <img align="left"style="width: 17%;"
           src="https://github-readme-streak-stats.herokuapp.com?user=iure-go&theme=merko&locale=pt-br"
-          width="100%"
+          width="20%"
           alt="Sequência de contribuições"
-        /><br />
-      </td>
+        />
+      </th>
       <tr>
-      <td>
+      <td align="left">
         <picture data-importer="pacman">
             <source 
                 media="(prefers-color-scheme: dark)" 
@@ -107,15 +104,12 @@ const iure = {
             <source 
                 media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
-            <img 
+            <img style="width: 40%;"
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
-        </td>
-        <td>
-        <img
+        <img style="width: 18%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=iure-go&layout=compact&langs_count=9&theme=merko&locale=pt-br"
-          width="100%"
           alt="Linguagens mais usadas"
         />
         </td>
