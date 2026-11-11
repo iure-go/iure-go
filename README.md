@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg">
 <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algorithms;Data+Structure;Object+-+Oriented+Programming;Database;Redes;Information+Security;Operating+Systems;Web+and+Mobile+Programming;Computer+Vision;Statistic;Data+Analysis;Power+BI;Data+Science;Artificial+Intelligence." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=09F715&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Algorithms;Data+Structure;Object+-+Oriented+Programming;Database;Networks;Information+Security;Operating+Systems;Web+and+Mobile+Programming;Computer+Vision;Statistic;Data+Analysis;Power+BI;Data+Science;Artificial+Intelligence." 
     alt="Digitação animada" />
 </a>
 
