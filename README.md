@@ -117,7 +117,7 @@ const iure = {
     </div>
 </div>
    <img align="center"
-        src="https://capsule-render.vercel.app/api?type=waving&height=50&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50"
+        src="https://capsule-render.vercel.app/api?type=waving&height=100&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50"
         alt="Barra rodapé"
         width="100%"
         />
