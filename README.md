@@ -80,7 +80,7 @@ const iure = {
     <div data-importer="stats">
     <tr>
       <th>
-        <img align="left" style="width: 65.8%;" 
+        <img align="left" style="width: 62.8%;" 
           src="https://raw.githubusercontent.com/iure-go/iure-go/activity-graph-output/activity-graph.svg?radius=16&theme=merko&area=true&order=5&locale=pt-br"
           alt="activity-graph graph"          
         />
@@ -104,7 +104,7 @@ const iure = {
             <source 
                 media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
-            <img align="left" style="height: 105px;"
+            <img align="left" style="height: 100px;"
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
