@@ -78,7 +78,7 @@ const iure = {
 <div align="center">
     <a href="https://github.com/iure-go">
     <div data-importer="stats" align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td>
         <img
@@ -122,10 +122,11 @@ const iure = {
       </tr>
     </tr>
   </table>
+    </div>
 </div>
-    <img 
+    <img align="center"
         src="https://capsule-render.vercel.app/api?type=waving&height=150&color=004216&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=0&descAlign=50&descAlignY=50"
         alt="Barra rodapé"
-        width="100%"/>
+        width="100%"
+        />
     </a>
-</div>
