@@ -108,7 +108,7 @@ const iure = {
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
-        <img align="left" style="width: 27%;"
+        <img align="top" style="width: 27%;"
           src="https://github-readme-stats-rafazeero.vercel.app/api?username=iure-go&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&count_private=true"
           alt="Estatísticas do GitHub"
         />
