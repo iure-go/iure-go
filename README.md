@@ -104,7 +104,7 @@ const iure = {
             <source 
                 media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
-            <img align="left" style="height: 88px;"
+            <img align="left" style="width: 65.8%;"
                 alt="pacman contribution graph" 
                 src="https://raw.githubusercontent.com/iure-go/iure-go/pacman-output/pacman-contribution-graph.svg?game=pacman">
         </picture>
